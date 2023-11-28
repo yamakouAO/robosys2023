@@ -10,7 +10,7 @@
 * PYthon
   * テスト済み: 3.7～3.10
 
-##テスト環境
+## テスト環境
 * Ubuntu
 
 ©　2023 ko yamaguchi
