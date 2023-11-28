@@ -3,8 +3,9 @@
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます。
 * ©　2023 Ko Yamaguchi
 # plusココマンド
-![test] (https://github.com/yamakouAO/robosys2023/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/yamakouAO/robosys2023/actions/workflows/test.yml/badge.svg)
 
+標準入力から読み込んだ数字を足す。
 
 ## 必要なソフトウェア
 * PYthon
