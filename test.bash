@@ -12,8 +12,8 @@ ret=0
 out=$(seq 5 | ./plus)
 
 [ "${out}" = 15 ] || ng "$LINENO"
-[ "${out}" = 14 ] || ng "$LINENO"
 
+[ "$ret" = 0 ] && echo OK
 exit $ret
 
 
