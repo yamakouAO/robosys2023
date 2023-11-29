@@ -11,8 +11,14 @@ def tonum(s):
         return float(s)
 
 ans = 0
+i = 0
 for line in sys.stdin:
     ans += tonum(line)
+    i += 1
 
-print(ans)
+out = (ans) / (i)
+
+print(out)
+
+
 
