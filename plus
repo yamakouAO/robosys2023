@@ -18,6 +18,7 @@ for line in sys.stdin:
 
 out = (ans) / (i)
 
+
 print(out)
 
 
