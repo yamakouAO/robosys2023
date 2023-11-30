@@ -12,4 +12,6 @@ ans = 1
 for line in sys.stdin:
     ans *= tonum(line)
 
+
+
 print(ans)
