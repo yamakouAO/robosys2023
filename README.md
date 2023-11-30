@@ -8,23 +8,23 @@
 
 ##インストール方法
 
-'''  
+```   
 $ git clone https//github.com/yamakouAO/robosys2023.git
 
 $ cd robosys2023  
-'''
+```
 
 ##実行方法
 実行の許可を与える(２回目以降不要）  
-'''  
+```  
 $ chmod +x plus  
-'''  
+```    
 
 (例)  
-'''  
+```
 $ seq 5 | .plus  
 3  
-'''  
+```  
 
 ## 必要なソフトウェア
 * PYthon
