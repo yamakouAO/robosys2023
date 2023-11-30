@@ -14,17 +14,17 @@ $ seq 5 | ./plus
 
 3
 
-注意　初めての実行の場合許可を与えてください
-
-$chmod +x plus
+注意　初めての実行の場合許可を与えてください  
+以下の作業が必要となります。  
+$ chmod +x plus
 
 ##インストール方法
 
-$git clone https//github.com/yamakouAO/robosys2023.git
+$ git clone https//github.com/yamakouAO/robosys2023.git
 
-$cd robosys2023
+$ cd robosys2023
 
-$ls  
+$ ls  
 plus test.bash <その他省略>
 
 ## 必要なソフトウェア
